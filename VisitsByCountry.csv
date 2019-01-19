@@ -1,0 +1,601 @@
+Date ,Visits ,Country
+Jan-17,10574106,Canada
+Feb-17,10054499,Canada
+Mar-17,12399365,Canada
+Apr-17,10023499,Canada
+May-17,10303348,Canada
+Jun-17,10676198,Canada
+Jul-17,14808141,Canada
+Aug-17,17684770,Canada
+Sep-17,16942182,Canada
+Oct-17,18798696,Canada
+Nov-17,20120565,Canada
+Dec-17,22055821,Canada
+Jan-18,30613048,Canada
+Feb-18,30415251,Canada
+Mar-18,40485415,Canada
+Apr-18,41694861,Canada
+May-18,30373068,Canada
+Jun-18,27198448,Canada
+Jul-18,30073637,Canada
+Aug-18,26817835,Canada
+Sep-18,25229757,Canada
+Oct-18,28983492,Canada
+Nov-18,29131080,Canada
+Dec-18,26484500,Canada
+Jan-17,291974,United States
+Feb-17,333871,United States
+Mar-17,384160,United States
+Apr-17,337459,United States
+May-17,338878,United States
+Jun-17,403135,United States
+Jul-17,517191,United States
+Aug-17,660369,United States
+Sep-17,604681,United States
+Oct-17,690913,United States
+Nov-17,750696,United States
+Dec-17,1366150,United States
+Jan-18,1848203,United States
+Feb-18,1784958,United States
+Mar-18,2158638,United States
+Apr-18,2245277,United States
+May-18,2051839,United States
+Jun-18,2130709,United States
+Jul-18,2124789,United States
+Aug-18,2008395,United States
+Sep-18,1845134,United States
+Oct-18,2106826,United States
+Nov-18,2050713,United States
+Dec-18,2044309,United States
+Jan-17,63405,India
+Feb-17,68221,India
+Mar-17,82044,India
+Apr-17,91623,India
+May-17,95408,India
+Jun-17,128791,India
+Jul-17,146711,India
+Aug-17,158424,India
+Sep-17,143135,India
+Oct-17,138422,India
+Nov-17,155770,India
+Dec-17,933555,India
+Jan-18,1021276,India
+Feb-18,1043261,India
+Mar-18,1230998,India
+Apr-18,1227578,India
+May-18,1368085,India
+Jun-18,1497913,India
+Jul-18,1557301,India
+Aug-18,1609117,India
+Sep-18,1305906,India
+Oct-18,1311689,India
+Nov-18,1413539,India
+Dec-18,1649049,India
+Jan-17,49940,France
+Feb-17,49234,France
+Mar-17,53317,France
+Apr-17,55460,France
+May-17,55528,France
+Jun-17,65822,France
+Jul-17,75126,France
+Aug-17,111529,France
+Sep-17,113123,France
+Oct-17,133140,France
+Nov-17,156402,France
+Dec-17,390916,France
+Jan-18,469939,France
+Feb-18,395275,France
+Mar-18,476231,France
+Apr-18,406921,France
+May-18,439482,France
+Jun-18,449972,France
+Jul-18,467755,France
+Aug-18,461493,France
+Sep-18,421735,France
+Oct-18,418431,France
+Nov-18,451965,France
+Dec-18,557692,France
+Jan-17,42955,United Kingdom
+Feb-17,42568,United Kingdom
+Mar-17,46862,United Kingdom
+Apr-17,47617,United Kingdom
+May-17,51017,United Kingdom
+Jun-17,59147,United Kingdom
+Jul-17,65619,United Kingdom
+Aug-17,75098,United Kingdom
+Sep-17,67887,United Kingdom
+Oct-17,77841,United Kingdom
+Nov-17,80845,United Kingdom
+Dec-17,285165,United Kingdom
+Jan-18,381140,United Kingdom
+Feb-18,334879,United Kingdom
+Mar-18,409522,United Kingdom
+Apr-18,395226,United Kingdom
+May-18,414315,United Kingdom
+Jun-18,406070,United Kingdom
+Jul-18,415037,United Kingdom
+Aug-18,398342,United Kingdom
+Sep-18,327904,United Kingdom
+Oct-18,340237,United Kingdom
+Nov-18,341498,United Kingdom
+Dec-18,361763,United Kingdom
+Jan-17,17511,China
+Feb-17,23575,China
+Mar-17,29074,China
+Apr-17,29181,China
+May-17,34035,China
+Jun-17,35722,China
+Jul-17,38918,China
+Aug-17,42115,China
+Sep-17,37855,China
+Oct-17,40179,China
+Nov-17,42178,China
+Dec-17,183496,China
+Jan-18,193752,China
+Feb-18,152774,China
+Mar-18,256860,China
+Apr-18,304854,China
+May-18,348394,China
+Jun-18,323189,China
+Jul-18,343504,China
+Aug-18,302991,China
+Sep-18,273738,China
+Oct-18,268764,China
+Nov-18,287240,China
+Dec-18,311808,China
+Jan-17,16088,Nigeria
+Feb-17,20296,Nigeria
+Mar-17,22307,Nigeria
+Apr-17,18279,Nigeria
+May-17,19951,Nigeria
+Jun-17,25261,Nigeria
+Jul-17,22448,Nigeria
+Aug-17,21902,Nigeria
+Sep-17,21446,Nigeria
+Oct-17,24923,Nigeria
+Nov-17,23496,Nigeria
+Dec-17,172816,Nigeria
+Jan-18,244148,Nigeria
+Feb-18,219909,Nigeria
+Mar-18,249340,Nigeria
+Apr-18,259908,Nigeria
+May-18,275183,Nigeria
+Jun-18,268341,Nigeria
+Jul-18,284330,Nigeria
+Aug-18,305076,Nigeria
+Sep-18,298156,Nigeria
+Oct-18,312906,Nigeria
+Nov-18,285569,Nigeria
+Dec-18,303590,Nigeria
+Jan-17,22134,Philippines
+Feb-17,22980,Philippines
+Mar-17,28334,Philippines
+Apr-17,25434,Philippines
+May-17,25925,Philippines
+Jun-17,32169,Philippines
+Jul-17,34879,Philippines
+Aug-17,38179,Philippines
+Sep-17,34586,Philippines
+Oct-17,39713,Philippines
+Nov-17,37742,Philippines
+Dec-17,137010,Philippines
+Jan-18,214515,Philippines
+Feb-18,203350,Philippines
+Mar-18,217246,Philippines
+Apr-18,217069,Philippines
+May-18,213960,Philippines
+Jun-18,209662,Philippines
+Jul-18,227734,Philippines
+Aug-18,213520,Philippines
+Sep-18,201845,Philippines
+Oct-18,209276,Philippines
+Nov-18,204009,Philippines
+Dec-18,192545,Philippines
+Jan-17,50543,Mexico
+Feb-17,37487,Mexico
+Mar-17,38727,Mexico
+Apr-17,29200,Mexico
+May-17,31917,Mexico
+Jun-17,33610,Mexico
+Jul-17,35841,Mexico
+Aug-17,40265,Mexico
+Sep-17,33147,Mexico
+Oct-17,36953,Mexico
+Nov-17,42708,Mexico
+Dec-17,133335,Mexico
+Jan-18,196676,Mexico
+Feb-18,191321,Mexico
+Mar-18,209322,Mexico
+Apr-18,212511,Mexico
+May-18,224897,Mexico
+Jun-18,210508,Mexico
+Jul-18,218413,Mexico
+Aug-18,208248,Mexico
+Sep-18,182418,Mexico
+Oct-18,189632,Mexico
+Nov-18,191342,Mexico
+Dec-18,200418,Mexico
+Jan-17,14850,United Arab Emirates
+Feb-17,15389,United Arab Emirates
+Mar-17,17403,United Arab Emirates
+Apr-17,19352,United Arab Emirates
+May-17,19962,United Arab Emirates
+Jun-17,23993,United Arab Emirates
+Jul-17,26062,United Arab Emirates
+Aug-17,25511,United Arab Emirates
+Sep-17,25004,United Arab Emirates
+Oct-17,28958,United Arab Emirates
+Nov-17,25701,United Arab Emirates
+Dec-17,151979,United Arab Emirates
+Jan-18,184082,United Arab Emirates
+Feb-18,175425,United Arab Emirates
+Mar-18,195061,United Arab Emirates
+Apr-18,194633,United Arab Emirates
+May-18,211332,United Arab Emirates
+Jun-18,209637,United Arab Emirates
+Jul-18,219167,United Arab Emirates
+Aug-18,197962,United Arab Emirates
+Sep-18,202378,United Arab Emirates
+Oct-18,204910,United Arab Emirates
+Nov-18,184953,United Arab Emirates
+Dec-18,207769,United Arab Emirates
+Jan-17,19201,Germany
+Feb-17,17435,Germany
+Mar-17,18438,Germany
+Apr-17,19196,Germany
+May-17,19855,Germany
+Jun-17,31590,Germany
+Jul-17,36859,Germany
+Aug-17,39340,Germany
+Sep-17,36882,Germany
+Oct-17,33457,Germany
+Nov-17,36299,Germany
+Dec-17,256550,Germany
+Jan-18,294137,Germany
+Feb-18,262784,Germany
+Mar-18,214449,Germany
+Apr-18,154586,Germany
+May-18,169532,Germany
+Jun-18,176350,Germany
+Jul-18,180350,Germany
+Aug-18,161021,Germany
+Sep-18,137517,Germany
+Oct-18,133226,Germany
+Nov-18,138645,Germany
+Dec-18,151934,Germany
+Jan-17,16288,Australia
+Feb-17,17357,Australia
+Mar-17,20830,Australia
+Apr-17,23869,Australia
+May-17,26209,Australia
+Jun-17,26603,Australia
+Jul-17,28747,Australia
+Aug-17,36842,Australia
+Sep-17,30755,Australia
+Oct-17,35960,Australia
+Nov-17,36572,Australia
+Dec-17,133028,Australia
+Jan-18,173040,Australia
+Feb-18,171650,Australia
+Mar-18,214344,Australia
+Apr-18,210882,Australia
+May-18,218182,Australia
+Jun-18,196739,Australia
+Jul-18,195647,Australia
+Aug-18,193109,Australia
+Sep-18,170735,Australia
+Oct-18,172691,Australia
+Nov-18,173058,Australia
+Dec-18,188448,Australia
+Jan-17,20203,Brazil
+Feb-17,27917,Brazil
+Mar-17,26879,Brazil
+Apr-17,25351,Brazil
+May-17,32414,Brazil
+Jun-17,29222,Brazil
+Jul-17,26185,Brazil
+Aug-17,28129,Brazil
+Sep-17,24223,Brazil
+Oct-17,25861,Brazil
+Nov-17,28729,Brazil
+Dec-17,122983,Brazil
+Jan-18,214616,Brazil
+Feb-18,163472,Brazil
+Mar-18,193477,Brazil
+Apr-18,184225,Brazil
+May-18,192408,Brazil
+Jun-18,208475,Brazil
+Jul-18,199191,Brazil
+Aug-18,176896,Brazil
+Sep-18,149468,Brazil
+Oct-18,192851,Brazil
+Nov-18,162374,Brazil
+Dec-18,152602,Brazil
+Jan-17,11634,Algeria
+Feb-17,12669,Algeria
+Mar-17,12871,Algeria
+Apr-17,16292,Algeria
+May-17,11934,Algeria
+Jun-17,16353,Algeria
+Jul-17,17564,Algeria
+Aug-17,21208,Algeria
+Sep-17,26491,Algeria
+Oct-17,39294,Algeria
+Nov-17,37571,Algeria
+Dec-17,155723,Algeria
+Jan-18,160515,Algeria
+Feb-18,155658,Algeria
+Mar-18,158722,Algeria
+Apr-18,135541,Algeria
+May-18,127361,Algeria
+Jun-18,136429,Algeria
+Jul-18,166713,Algeria
+Aug-18,197880,Algeria
+Sep-18,252854,Algeria
+Oct-18,220236,Algeria
+Nov-18,199162,Algeria
+Dec-18,171915,Algeria
+Jan-17,12069,Pakistan
+Feb-17,13989,Pakistan
+Mar-17,15014,Pakistan
+Apr-17,16547,Pakistan
+May-17,16100,Pakistan
+Jun-17,19656,Pakistan
+Jul-17,21699,Pakistan
+Aug-17,20841,Pakistan
+Sep-17,20667,Pakistan
+Oct-17,23608,Pakistan
+Nov-17,22753,Pakistan
+Dec-17,139575,Pakistan
+Jan-18,172868,Pakistan
+Feb-18,160353,Pakistan
+Mar-18,167921,Pakistan
+Apr-18,167625,Pakistan
+May-18,178179,Pakistan
+Jun-18,177367,Pakistan
+Jul-18,186176,Pakistan
+Aug-18,171075,Pakistan
+Sep-18,172804,Pakistan
+Oct-18,178295,Pakistan
+Nov-18,170361,Pakistan
+Dec-18,199524,Pakistan
+Jan-17,5278,Iran
+Feb-17,5251,Iran
+Mar-17,4898,Iran
+Apr-17,8079,Iran
+May-17,7566,Iran
+Jun-17,9420,Iran
+Jul-17,10623,Iran
+Aug-17,11423,Iran
+Sep-17,9682,Iran
+Oct-17,11298,Iran
+Nov-17,11699,Iran
+Dec-17,113415,Iran
+Jan-18,115468,Iran
+Feb-18,109938,Iran
+Mar-18,111551,Iran
+Apr-18,148622,Iran
+May-18,132571,Iran
+Jun-18,139338,Iran
+Jul-18,175818,Iran
+Aug-18,187339,Iran
+Sep-18,174382,Iran
+Oct-18,159144,Iran
+Nov-18,148724,Iran
+Dec-18,182805,Iran
+Jan-17,12514,Saudi Arabia
+Feb-17,12523,Saudi Arabia
+Mar-17,13574,Saudi Arabia
+Apr-17,13730,Saudi Arabia
+May-17,16031,Saudi Arabia
+Jun-17,15346,Saudi Arabia
+Jul-17,54205,Saudi Arabia
+Aug-17,31347,Saudi Arabia
+Sep-17,21378,Saudi Arabia
+Oct-17,25197,Saudi Arabia
+Nov-17,27883,Saudi Arabia
+Dec-17,125203,Saudi Arabia
+Jan-18,142177,Saudi Arabia
+Feb-18,141708,Saudi Arabia
+Mar-18,149551,Saudi Arabia
+Apr-18,138797,Saudi Arabia
+May-18,137816,Saudi Arabia
+Jun-18,136495,Saudi Arabia
+Jul-18,144947,Saudi Arabia
+Aug-18,122920,Saudi Arabia
+Sep-18,120646,Saudi Arabia
+Oct-18,123626,Saudi Arabia
+Nov-18,116079,Saudi Arabia
+Dec-18,117173,Saudi Arabia
+Jan-17,9580,Morocco
+Feb-17,13168,Morocco
+Mar-17,13333,Morocco
+Apr-17,13824,Morocco
+May-17,14045,Morocco
+Jun-17,15570,Morocco
+Jul-17,19638,Morocco
+Aug-17,25955,Morocco
+Sep-17,28814,Morocco
+Oct-17,28884,Morocco
+Nov-17,23814,Morocco
+Dec-17,93849,Morocco
+Jan-18,97258,Morocco
+Feb-18,89421,Morocco
+Mar-18,105431,Morocco
+Apr-18,94760,Morocco
+May-18,106570,Morocco
+Jun-18,111893,Morocco
+Jul-18,125026,Morocco
+Aug-18,143023,Morocco
+Sep-18,185775,Morocco
+Oct-18,190657,Morocco
+Nov-18,153131,Morocco
+Dec-18,142711,Morocco
+Jan-17,18384,South Korea
+Feb-17,17650,South Korea
+Mar-17,16476,South Korea
+Apr-17,18083,South Korea
+May-17,18785,South Korea
+Jun-17,19702,South Korea
+Jul-17,20386,South Korea
+Aug-17,21029,South Korea
+Sep-17,20107,South Korea
+Oct-17,19497,South Korea
+Nov-17,30954,South Korea
+Dec-17,141224,South Korea
+Jan-18,126368,South Korea
+Feb-18,94347,South Korea
+Mar-18,109417,South Korea
+Apr-18,138200,South Korea
+May-18,151956,South Korea
+Jun-18,129003,South Korea
+Jul-18,118856,South Korea
+Aug-18,99600,South Korea
+Sep-18,89494,South Korea
+Oct-18,84546,South Korea
+Nov-18,101653,South Korea
+Dec-18,148595,South Korea
+Jan-17,10446,Japan
+Feb-17,10628,Japan
+Mar-17,11484,Japan
+Apr-17,12485,Japan
+May-17,14054,Japan
+Jun-17,18214,Japan
+Jul-17,20318,Japan
+Aug-17,21274,Japan
+Sep-17,19156,Japan
+Oct-17,18762,Japan
+Nov-17,20404,Japan
+Dec-17,74427,Japan
+Jan-18,95391,Japan
+Feb-18,105031,Japan
+Mar-18,120386,Japan
+Apr-18,112697,Japan
+May-18,119931,Japan
+Jun-18,127552,Japan
+Jul-18,134955,Japan
+Aug-18,126714,Japan
+Sep-18,103457,Japan
+Oct-18,98708,Japan
+Nov-18,96109,Japan
+Dec-18,106951,Japan
+Jan-17,7406,Hong Kong
+Feb-17,8577,Hong Kong
+Mar-17,11007,Hong Kong
+Apr-17,11217,Hong Kong
+May-17,12206,Hong Kong
+Jun-17,13939,Hong Kong
+Jul-17,16434,Hong Kong
+Aug-17,20135,Hong Kong
+Sep-17,18083,Hong Kong
+Oct-17,20017,Hong Kong
+Nov-17,20821,Hong Kong
+Dec-17,57837,Hong Kong
+Jan-18,73558,Hong Kong
+Feb-18,66532,Hong Kong
+Mar-18,100268,Hong Kong
+Apr-18,94692,Hong Kong
+May-18,104698,Hong Kong
+Jun-18,95063,Hong Kong
+Jul-18,96660,Hong Kong
+Aug-18,89512,Hong Kong
+Sep-18,74739,Hong Kong
+Oct-18,81090,Hong Kong
+Nov-18,82481,Hong Kong
+Dec-18,82930,Hong Kong
+Jan-17,12331,Colombia
+Feb-17,10551,Colombia
+Mar-17,12767,Colombia
+Apr-17,12516,Colombia
+May-17,12060,Colombia
+Jun-17,12242,Colombia
+Jul-17,13397,Colombia
+Aug-17,14305,Colombia
+Sep-17,14368,Colombia
+Oct-17,13351,Colombia
+Nov-17,13828,Colombia
+Dec-17,50977,Colombia
+Jan-18,142707,Colombia
+Feb-18,85956,Colombia
+Mar-18,85355,Colombia
+Apr-18,94971,Colombia
+May-18,99727,Colombia
+Jun-18,84398,Colombia
+Jul-18,89050,Colombia
+Aug-18,83835,Colombia
+Sep-18,74955,Colombia
+Oct-18,77578,Colombia
+Nov-18,77526,Colombia
+Dec-18,68542,Colombia
+Jan-17,5428,Bangladesh
+Feb-17,5556,Bangladesh
+Mar-17,6304,Bangladesh
+Apr-17,7045,Bangladesh
+May-17,7027,Bangladesh
+Jun-17,8233,Bangladesh
+Jul-17,9904,Bangladesh
+Aug-17,9573,Bangladesh
+Sep-17,8362,Bangladesh
+Oct-17,10774,Bangladesh
+Nov-17,9759,Bangladesh
+Dec-17,61442,Bangladesh
+Jan-18,62121,Bangladesh
+Feb-18,65097,Bangladesh
+Mar-18,70597,Bangladesh
+Apr-18,67323,Bangladesh
+May-18,72915,Bangladesh
+Jun-18,79646,Bangladesh
+Jul-18,104203,Bangladesh
+Aug-18,99072,Bangladesh
+Sep-18,92868,Bangladesh
+Oct-18,90105,Bangladesh
+Nov-18,87041,Bangladesh
+Dec-18,97022,Bangladesh
+Jan-17,12873,Turkey
+Feb-17,10400,Turkey
+Mar-17,9026,Turkey
+Apr-17,8960,Turkey
+May-17,9227,Turkey
+Jun-17,9742,Turkey
+Jul-17,13002,Turkey
+Aug-17,14824,Turkey
+Sep-17,13839,Turkey
+Oct-17,14416,Turkey
+Nov-17,14130,Turkey
+Dec-17,59374,Turkey
+Jan-18,68652,Turkey
+Feb-18,64551,Turkey
+Mar-18,68846,Turkey
+Apr-18,61851,Turkey
+May-18,69679,Turkey
+Jun-18,73023,Turkey
+Jul-18,86976,Turkey
+Aug-18,91274,Turkey
+Sep-18,85539,Turkey
+Oct-18,84140,Turkey
+Nov-18,87591,Turkey
+Dec-18,85125,Turkey
+Jan-17,6295,Russian Federation
+Feb-17,7801,Russian Federation
+Mar-17,9472,Russian Federation
+Apr-17,9301,Russian Federation
+May-17,9649,Russian Federation
+Jun-17,17275,Russian Federation
+Jul-17,20105,Russian Federation
+Aug-17,21326,Russian Federation
+Sep-17,24495,Russian Federation
+Oct-17,15046,Russian Federation
+Nov-17,16489,Russian Federation
+Dec-17,48806,Russian Federation
+Jan-18,57231,Russian Federation
+Feb-18,56058,Russian Federation
+Mar-18,81634,Russian Federation
+Apr-18,80455,Russian Federation
+May-18,74565,Russian Federation
+Jun-18,72788,Russian Federation
+Jul-18,79021,Russian Federation
+Aug-18,74479,Russian Federation
+Sep-18,62474,Russian Federation
+Oct-18,67020,Russian Federation
+Nov-18,78804,Russian Federation
+Dec-18,73578,Russian Federation
