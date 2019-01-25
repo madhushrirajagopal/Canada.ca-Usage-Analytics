@@ -1,0 +1,785 @@
+CountryofCitizenship,Year,NumberofPRAdmissions
+Afghanistan,2015,"2,630"
+Albania,2015,565
+Algeria,2015,"2,830"
+Andorra,2015,--
+Angola,2015,30
+Antigua and Barbuda,2015,55
+Argentina,2015,225
+Armenia,2015,305
+Australia,2015,"1,470"
+Austria,2015,120
+Azerbaijan,2015,110
+"Bahama Islands, The",2015,80
+Bahrain,2015,35
+Bangladesh,2015,"3,305"
+Barbados,2015,145
+Belarus,2015,210
+Belgium,2015,370
+Belize,2015,30
+"Benin, Republic of",2015,260
+Bhutan,2015,410
+Bolivia,2015,75
+Bosnia-Herzegovina,2015,185
+"Botswana, Republic of",2015,95
+Brazil,2015,"1,730"
+Brunei,2015,5
+Bulgaria,2015,365
+Burkina-Faso,2015,235
+Burundi,2015,945
+Cambodia,2015,205
+"Cameroon, Federal Republic of",2015,"2,030"
+Cape Verde Islands,2015,--
+Central African Republic,2015,460
+"Chad, Republic of",2015,85
+Chile,2015,260
+"China, People's Republic of",2015,"19,460"
+Colombia,2015,"2,180"
+Comoros,2015,10
+"Congo, Democratic Republic of the",2015,"1,675"
+"Congo, People's Republic of the",2015,145
+Costa Rica,2015,120
+Croatia,2015,505
+Cuba,2015,825
+Cyprus,2015,25
+Czech Republic,2015,280
+Denmark,2015,80
+"Djibouti, Republic of",2015,145
+Dominica,2015,30
+Dominican Republic,2015,600
+"East Timor, Democratic Republic of",2015,0
+Ecuador,2015,215
+Egypt,2015,"3,760"
+El Salvador,2015,660
+"Equatorial Guinea, Republic of",2015,0
+Eritrea,2015,"2,210"
+Estonia,2015,50
+Ethiopia,2015,"1,355"
+Fiji,2015,220
+Finland,2015,85
+France,2015,"5,850"
+Gabon Republic,2015,60
+Gambia,2015,40
+Georgia,2015,105
+Germany,2015,"1,275"
+Ghana,2015,365
+Greece,2015,480
+Grenada,2015,115
+Guatemala,2015,240
+"Guinea, Republic of",2015,245
+Guinea-Bissau,2015,5
+Guyana,2015,540
+Haiti,2015,"2,720"
+Honduras,2015,420
+Hong Kong,2015,895
+Hungary,2015,760
+Iceland,2015,30
+India,2015,"39,340"
+"Indonesia, Republic of",2015,375
+Iran,2015,"11,640"
+Iraq,2015,"3,975"
+"Ireland, Republic of",2015,"2,150"
+Israel,2015,"2,165"
+Italy,2015,880
+"Ivory Coast, Republic of",2015,"1,370"
+Jamaica,2015,"3,415"
+Japan,2015,995
+Jordan,2015,"1,115"
+Kazakhstan,2015,330
+Kenya,2015,380
+Kiribati,2015,0
+"Korea, People's Democratic Republic of",2015,--
+"Korea, Republic of",2015,"4,105"
+"Kosovo, Republic of",2015,240
+Kuwait,2015,10
+Kyrgyzstan,2015,130
+Laos,2015,20
+Latvia,2015,130
+Lebanon,2015,"2,110"
+Lesotho,2015,--
+Liberia,2015,155
+Libya,2015,240
+Lithuania,2015,130
+Luxembourg,2015,10
+Macau,2015,20
+Macedonia,2015,220
+Madagascar,2015,115
+Malawi,2015,25
+Malaysia,2015,330
+"Maldives, Republic of",2015,--
+"Mali, Republic of",2015,190
+Malta,2015,10
+Mauritania,2015,105
+Mauritius,2015,715
+Mexico,2015,"3,220"
+Moldova,2015,925
+Monaco,2015,--
+"Mongolia, People's Republic of",2015,45
+"Montenegro, Republic of",2015,25
+Morocco,2015,"2,705"
+Mozambique,2015,10
+Myanmar (Burma),2015,440
+Namibia,2015,100
+Nepal,2015,"1,525"
+"Netherlands, The",2015,540
+Nevis,2015,0
+New Zealand,2015,335
+Nicaragua,2015,95
+"Niger, Republic of the",2015,80
+Nigeria,2015,"4,090"
+Norway,2015,50
+Oman,2015,--
+Pakistan,2015,"11,295"
+"Palau, Republic of",2015,0
+Palestinian Authority (Gaza/West Bank),2015,400
+"Panama, Republic of",2015,45
+Papua New Guinea,2015,5
+Paraguay,2015,35
+Peru,2015,555
+Philippines,2015,"50,845"
+Poland,2015,975
+Portugal,2015,830
+Qatar,2015,--
+Romania,2015,"1,180"
+Russia,2015,"2,125"
+Rwanda,2015,360
+"Samoa, American",2015,--
+"Samoa, Independent State of",2015,--
+San Marino,2015,0
+Saudi Arabia,2015,170
+Senegal,2015,645
+"Serbia, Republic of",2015,620
+Seychelles,2015,--
+Sierra Leone,2015,90
+Singapore,2015,255
+Slovak Republic,2015,205
+Slovenia,2015,40
+"Solomons, The",2015,--
+"Somalia, Democratic Republic of",2015,"1,160"
+"South Africa, Republic of",2015,945
+"South Sudan, Republic of",2015,70
+Spain,2015,730
+Sri Lanka,2015,"1,785"
+St. Kitts-Nevis,2015,35
+St. Lucia,2015,440
+St. Vincent and the Grenadines,2015,485
+Stateless,2015,"1,040"
+"Sudan, Democratic Republic of",2015,335
+Surinam,2015,10
+Swaziland,2015,35
+Sweden,2015,175
+Switzerland,2015,240
+Syria,2015,"9,850"
+Taiwan,2015,625
+Tajikistan,2015,45
+"Tanzania, United Republic of",2015,150
+Thailand,2015,480
+"Togo, Republic of",2015,265
+Tonga,2015,5
+"Trinidad and Tobago, Republic of",2015,345
+Tunisia,2015,"1,280"
+Turkey,2015,870
+Turkmenistan,2015,10
+Uganda,2015,180
+Ukraine,2015,"2,345"
+United Arab Emirates,2015,--
+United Kingdom and Overseas Territories,2015,"5,360"
+United States of America,2015,"7,655"
+Uruguay,2015,45
+Uzbekistan,2015,190
+Venezuela,2015,915
+Vietnam,2015,"2,595"
+Western Sahara,2015,0
+Yemen,2015,205
+Zambia,2015,55
+Zimbabwe,2015,230
+Other Countries,2015,--
+Total,2015,"271,835"
+Afghanistan,2016,"2,650"
+Albania,2016,510
+Algeria,2016,"2,820"
+Andorra,2016,0
+Angola,2016,30
+Antigua and Barbuda,2016,45
+Argentina,2016,265
+Armenia,2016,350
+Australia,2016,"1,705"
+Austria,2016,100
+Azerbaijan,2016,115
+"Bahama Islands, The",2016,80
+Bahrain,2016,20
+Bangladesh,2016,"3,230"
+Barbados,2016,140
+Belarus,2016,350
+Belgium,2016,460
+Belize,2016,65
+"Benin, Republic of",2016,300
+Bhutan,2016,120
+Bolivia,2016,115
+Bosnia-Herzegovina,2016,140
+"Botswana, Republic of",2016,65
+Brazil,2016,"1,730"
+Brunei,2016,5
+Bulgaria,2016,370
+Burkina-Faso,2016,285
+Burundi,2016,635
+Cambodia,2016,255
+"Cameroon, Federal Republic of",2016,"2,100"
+Cape Verde Islands,2016,--
+Central African Republic,2016,100
+"Chad, Republic of",2016,100
+Chile,2016,250
+"China, People's Republic of",2016,"26,785"
+Colombia,2016,"2,440"
+Comoros,2016,10
+"Congo, Democratic Republic of the",2016,"2,480"
+"Congo, People's Republic of the",2016,200
+Costa Rica,2016,140
+Croatia,2016,630
+Cuba,2016,"1,115"
+Cyprus,2016,15
+Czech Republic,2016,325
+Denmark,2016,80
+"Djibouti, Republic of",2016,270
+Dominica,2016,30
+Dominican Republic,2016,605
+"East Timor, Democratic Republic of",2016,--
+Ecuador,2016,255
+Egypt,2016,"3,085"
+El Salvador,2016,625
+"Equatorial Guinea, Republic of",2016,10
+Eritrea,2016,"4,655"
+Estonia,2016,50
+Ethiopia,2016,"1,930"
+Fiji,2016,190
+Finland,2016,90
+France,2016,"6,385"
+Gabon Republic,2016,50
+Gambia,2016,50
+Georgia,2016,120
+Germany,2016,"1,210"
+Ghana,2016,480
+Greece,2016,430
+Grenada,2016,115
+Guatemala,2016,200
+"Guinea, Republic of",2016,410
+Guinea-Bissau,2016,5
+Guyana,2016,510
+Haiti,2016,"2,930"
+Honduras,2016,360
+Hong Kong,2016,"1,360"
+Hungary,2016,520
+Iceland,2016,15
+India,2016,"39,705"
+"Indonesia, Republic of",2016,445
+Iran,2016,"6,475"
+Iraq,2016,"2,415"
+"Ireland, Republic of",2016,"2,250"
+Israel,2016,"2,445"
+Italy,2016,"1,000"
+"Ivory Coast, Republic of",2016,"1,760"
+Jamaica,2016,"3,560"
+Japan,2016,"1,035"
+Jordan,2016,920
+Kazakhstan,2016,400
+Kenya,2016,475
+Kiribati,2016,--
+"Korea, People's Democratic Republic of",2016,5
+"Korea, Republic of",2016,"4,010"
+"Kosovo, Republic of",2016,185
+Kuwait,2016,35
+Kyrgyzstan,2016,245
+Laos,2016,20
+Latvia,2016,140
+Lebanon,2016,"1,910"
+Lesotho,2016,10
+Liberia,2016,155
+Libya,2016,305
+Lithuania,2016,190
+Luxembourg,2016,5
+Macau,2016,25
+Macedonia,2016,135
+Madagascar,2016,135
+Malawi,2016,20
+Malaysia,2016,360
+"Maldives, Republic of",2016,--
+"Mali, Republic of",2016,205
+Malta,2016,5
+Mauritania,2016,50
+Mauritius,2016,550
+Mexico,2016,"3,390"
+Moldova,2016,"1,090"
+Monaco,2016,--
+"Mongolia, People's Republic of",2016,95
+"Montenegro, Republic of",2016,25
+Morocco,2016,"2,110"
+Mozambique,2016,--
+Myanmar (Burma),2016,425
+Namibia,2016,70
+Nepal,2016,755
+"Netherlands, The",2016,520
+Nevis,2016,--
+New Zealand,2016,495
+Nicaragua,2016,75
+"Niger, Republic of the",2016,90
+Nigeria,2016,"4,415"
+Norway,2016,90
+Oman,2016,--
+Pakistan,2016,"11,350"
+"Palau, Republic of",2016,0
+Palestinian Authority (Gaza/West Bank),2016,405
+"Panama, Republic of",2016,45
+Papua New Guinea,2016,5
+Paraguay,2016,45
+Peru,2016,440
+Philippines,2016,"41,850"
+Poland,2016,"1,000"
+Portugal,2016,855
+Qatar,2016,--
+Romania,2016,"1,360"
+Russia,2016,"2,405"
+Rwanda,2016,370
+"Samoa, American",2016,0
+"Samoa, Independent State of",2016,5
+San Marino,2016,0
+Saudi Arabia,2016,170
+Senegal,2016,600
+"Serbia, Republic of",2016,480
+Seychelles,2016,5
+Sierra Leone,2016,90
+Singapore,2016,265
+Slovak Republic,2016,270
+Slovenia,2016,30
+"Solomons, The",2016,--
+"Somalia, Democratic Republic of",2016,"1,315"
+"South Africa, Republic of",2016,"1,070"
+"South Sudan, Republic of",2016,95
+Spain,2016,650
+Sri Lanka,2016,"1,535"
+St. Kitts-Nevis,2016,40
+St. Lucia,2016,330
+St. Vincent and the Grenadines,2016,425
+Stateless,2016,835
+"Sudan, Democratic Republic of",2016,440
+Surinam,2016,10
+Swaziland,2016,15
+Sweden,2016,180
+Switzerland,2016,210
+Syria,2016,"35,000"
+Taiwan,2016,790
+Tajikistan,2016,30
+"Tanzania, United Republic of",2016,115
+Thailand,2016,460
+"Togo, Republic of",2016,245
+Tonga,2016,0
+"Trinidad and Tobago, Republic of",2016,320
+Tunisia,2016,"1,305"
+Turkey,2016,920
+Turkmenistan,2016,10
+Uganda,2016,180
+Ukraine,2016,"3,350"
+United Arab Emirates,2016,15
+United Kingdom and Overseas Territories,2016,"5,805"
+United States of America,2016,"8,485"
+Uruguay,2016,55
+Uzbekistan,2016,210
+Venezuela,2016,"1,010"
+Vietnam,2016,"2,450"
+Western Sahara,2016,--
+Yemen,2016,160
+Zambia,2016,55
+Zimbabwe,2016,280
+Other Countries,2016,10
+Total,2016,"296,365"
+Afghanistan,2017,"3,455"
+Albania,2017,645
+Algeria,2017,"2,635"
+Andorra,2017,0
+Angola,2017,45
+Antigua and Barbuda,2017,80
+Argentina,2017,230
+Armenia,2017,255
+Australia,2017,"1,865"
+Austria,2017,105
+Azerbaijan,2017,115
+"Bahama Islands, The",2017,120
+Bahrain,2017,35
+Bangladesh,2017,"3,190"
+Barbados,2017,200
+Belarus,2017,305
+Belgium,2017,510
+Belize,2017,80
+"Benin, Republic of",2017,195
+Bhutan,2017,65
+Bolivia,2017,100
+Bosnia-Herzegovina,2017,105
+"Botswana, Republic of",2017,75
+Brazil,2017,"2,760"
+Brunei,2017,10
+Bulgaria,2017,300
+Burkina-Faso,2017,265
+Burundi,2017,805
+Cambodia,2017,225
+"Cameroon, Federal Republic of",2017,"2,285"
+Cape Verde Islands,2017,--
+Central African Republic,2017,230
+"Chad, Republic of",2017,120
+Chile,2017,310
+"China, People's Republic of",2017,"30,250"
+Colombia,2017,"2,235"
+Comoros,2017,10
+"Congo, Democratic Republic of the",2017,"2,355"
+"Congo, People's Republic of the",2017,160
+Costa Rica,2017,135
+Croatia,2017,580
+Cuba,2017,880
+Cyprus,2017,15
+Czech Republic,2017,315
+Denmark,2017,95
+"Djibouti, Republic of",2017,185
+Dominica,2017,35
+Dominican Republic,2017,655
+"East Timor, Democratic Republic of",2017,0
+Ecuador,2017,210
+Egypt,2017,"2,865"
+El Salvador,2017,720
+"Equatorial Guinea, Republic of",2017,--
+Eritrea,2017,"4,690"
+Estonia,2017,35
+Ethiopia,2017,"1,910"
+Fiji,2017,155
+Finland,2017,105
+France,2017,"6,625"
+Gabon Republic,2017,45
+Gambia,2017,60
+Georgia,2017,135
+Germany,2017,"1,145"
+Ghana,2017,685
+Greece,2017,405
+Grenada,2017,120
+Guatemala,2017,245
+"Guinea, Republic of",2017,380
+Guinea-Bissau,2017,--
+Guyana,2017,430
+Haiti,2017,"2,345"
+Honduras,2017,380
+Hong Kong,2017,"1,360"
+Hungary,2017,690
+Iceland,2017,25
+India,2017,"51,590"
+"Indonesia, Republic of",2017,500
+Iran,2017,"4,730"
+Iraq,2017,"4,740"
+"Ireland, Republic of",2017,"1,975"
+Israel,2017,"1,870"
+Italy,2017,"1,060"
+"Ivory Coast, Republic of",2017,"1,405"
+Jamaica,2017,"3,830"
+Japan,2017,"1,090"
+Jordan,2017,790
+Kazakhstan,2017,335
+Kenya,2017,465
+Kiribati,2017,0
+"Korea, People's Democratic Republic of",2017,5
+"Korea, Republic of",2017,"3,980"
+"Kosovo, Republic of",2017,145
+Kuwait,2017,20
+Kyrgyzstan,2017,135
+Laos,2017,25
+Latvia,2017,105
+Lebanon,2017,"1,365"
+Lesotho,2017,--
+Liberia,2017,55
+Libya,2017,500
+Lithuania,2017,145
+Luxembourg,2017,5
+Macau,2017,30
+Macedonia,2017,90
+Madagascar,2017,120
+Malawi,2017,20
+Malaysia,2017,360
+"Maldives, Republic of",2017,--
+"Mali, Republic of",2017,180
+Malta,2017,10
+Mauritania,2017,65
+Mauritius,2017,725
+Mexico,2017,"3,135"
+Moldova,2017,680
+Monaco,2017,--
+"Mongolia, People's Republic of",2017,85
+"Montenegro, Republic of",2017,10
+Morocco,2017,"2,265"
+Mozambique,2017,5
+Myanmar (Burma),2017,180
+Namibia,2017,120
+Nepal,2017,"1,110"
+"Netherlands, The",2017,495
+Nevis,2017,0
+New Zealand,2017,410
+Nicaragua,2017,100
+"Niger, Republic of the",2017,60
+Nigeria,2017,"5,445"
+Norway,2017,70
+Oman,2017,10
+Pakistan,2017,"7,655"
+"Palau, Republic of",2017,0
+Palestinian Authority (Gaza/West Bank),2017,320
+"Panama, Republic of",2017,60
+Papua New Guinea,2017,5
+Paraguay,2017,60
+Peru,2017,420
+Philippines,2017,"40,865"
+Poland,2017,995
+Portugal,2017,790
+Qatar,2017,--
+Romania,2017,980
+Russia,2017,"2,290"
+Rwanda,2017,355
+"Samoa, American",2017,0
+"Samoa, Independent State of",2017,0
+San Marino,2017,--
+Saudi Arabia,2017,210
+Senegal,2017,515
+"Serbia, Republic of",2017,370
+Seychelles,2017,5
+Sierra Leone,2017,40
+Singapore,2017,325
+Slovak Republic,2017,260
+Slovenia,2017,50
+"Solomons, The",2017,--
+"Somalia, Democratic Republic of",2017,"1,390"
+"South Africa, Republic of",2017,"1,555"
+"South Sudan, Republic of",2017,120
+Spain,2017,675
+Sri Lanka,2017,"2,150"
+St. Kitts-Nevis,2017,35
+St. Lucia,2017,385
+St. Vincent and the Grenadines,2017,475
+Stateless,2017,935
+"Sudan, Democratic Republic of",2017,425
+Surinam,2017,5
+Swaziland,2017,35
+Sweden,2017,175
+Switzerland,2017,190
+Syria,2017,"12,060"
+Taiwan,2017,795
+Tajikistan,2017,40
+"Tanzania, United Republic of",2017,195
+Thailand,2017,600
+"Togo, Republic of",2017,205
+Tonga,2017,0
+"Trinidad and Tobago, Republic of",2017,375
+Tunisia,2017,"1,430"
+Turkey,2017,"1,110"
+Turkmenistan,2017,25
+Uganda,2017,210
+Ukraine,2017,"3,310"
+United Arab Emirates,2017,5
+United Kingdom and Overseas Territories,2017,"5,310"
+United States of America,2017,"9,135"
+Uruguay,2017,25
+Uzbekistan,2017,180
+Venezuela,2017,"1,010"
+Vietnam,2017,"2,505"
+Western Sahara,2017,0
+Yemen,2017,250
+Zambia,2017,85
+Zimbabwe,2017,415
+Other Countries,2017,10
+Total,2017,"286,480"
+Afghanistan,2018,"3,015"
+Albania,2018,550
+Algeria,2018,"2,735"
+Andorra,2018,--
+Angola,2018,25
+Antigua and Barbuda,2018,70
+Argentina,2018,240
+Armenia,2018,180
+Australia,2018,"1,885"
+Austria,2018,90
+Azerbaijan,2018,245
+"Bahama Islands, The",2018,150
+Bahrain,2018,45
+Bangladesh,2018,"2,790"
+Barbados,2018,155
+Belarus,2018,220
+Belgium,2018,365
+Belize,2018,60
+"Benin, Republic of",2018,435
+Bhutan,2018,20
+Bolivia,2018,110
+Bosnia-Herzegovina,2018,130
+"Botswana, Republic of",2018,55
+Brazil,2018,"3,450"
+Brunei,2018,--
+Bulgaria,2018,155
+Burkina-Faso,2018,270
+Burundi,2018,875
+Cambodia,2018,160
+"Cameroon, Federal Republic of",2018,"1,940"
+Cape Verde Islands,2018,0
+Central African Republic,2018,170
+"Chad, Republic of",2018,145
+Chile,2018,320
+"China, People's Republic of",2018,"25,620"
+Colombia,2018,"1,955"
+Comoros,2018,5
+"Congo, Democratic Republic of the",2018,"1,910"
+"Congo, People's Republic of the",2018,160
+Costa Rica,2018,145
+Croatia,2018,480
+Cuba,2018,675
+Cyprus,2018,25
+Czech Republic,2018,355
+Denmark,2018,85
+"Djibouti, Republic of",2018,145
+Dominica,2018,30
+Dominican Republic,2018,680
+"East Timor, Democratic Republic of",2018,0
+Ecuador,2018,255
+Egypt,2018,"3,095"
+El Salvador,2018,585
+"Equatorial Guinea, Republic of",2018,--
+Eritrea,2018,"4,505"
+Estonia,2018,35
+Ethiopia,2018,"1,660"
+Fiji,2018,125
+Finland,2018,80
+France,2018,"5,665"
+Gabon Republic,2018,30
+Gambia,2018,50
+Georgia,2018,105
+Germany,2018,"1,125"
+Ghana,2018,705
+Greece,2018,360
+Grenada,2018,95
+Guatemala,2018,185
+"Guinea, Republic of",2018,280
+Guinea-Bissau,2018,5
+Guyana,2018,340
+Haiti,2018,"1,760"
+Honduras,2018,315
+Hong Kong,2018,"1,315"
+Hungary,2018,620
+Iceland,2018,25
+India,2018,"60,915"
+"Indonesia, Republic of",2018,370
+Iran,2018,"4,760"
+Iraq,2018,"4,465"
+"Ireland, Republic of",2018,"1,610"
+Israel,2018,"1,590"
+Italy,2018,"1,040"
+"Ivory Coast, Republic of",2018,"1,280"
+Jamaica,2018,"3,265"
+Japan,2018,880
+Jordan,2018,840
+Kazakhstan,2018,370
+Kenya,2018,400
+Kiribati,2018,0
+"Korea, People's Democratic Republic of",2018,--
+"Korea, Republic of",2018,"4,200"
+"Kosovo, Republic of",2018,195
+Kuwait,2018,15
+Kyrgyzstan,2018,135
+Laos,2018,20
+Latvia,2018,75
+Lebanon,2018,"1,225"
+Lesotho,2018,--
+Liberia,2018,35
+Libya,2018,370
+Lithuania,2018,125
+Luxembourg,2018,5
+Macau,2018,25
+Macedonia,2018,75
+Madagascar,2018,115
+Malawi,2018,20
+Malaysia,2018,375
+"Maldives, Republic of",2018,--
+"Mali, Republic of",2018,200
+Malta,2018,15
+Mauritania,2018,55
+Mauritius,2018,475
+Mexico,2018,"2,825"
+Moldova,2018,335
+Monaco,2018,0
+"Mongolia, People's Republic of",2018,75
+"Montenegro, Republic of",2018,20
+Morocco,2018,"2,390"
+Mozambique,2018,5
+Myanmar (Burma),2018,135
+Namibia,2018,110
+Nepal,2018,"1,175"
+"Netherlands, The",2018,450
+Nevis,2018,0
+New Zealand,2018,405
+Nicaragua,2018,115
+"Niger, Republic of the",2018,55
+Nigeria,2018,"9,340"
+Norway,2018,65
+Oman,2018,10
+Pakistan,2018,"7,950"
+"Palau, Republic of",2018,--
+Palestinian Authority (Gaza/West Bank),2018,360
+"Panama, Republic of",2018,45
+Papua New Guinea,2018,0
+Paraguay,2018,45
+Peru,2018,460
+Philippines,2018,"31,135"
+Poland,2018,805
+Portugal,2018,730
+Qatar,2018,--
+Romania,2018,700
+Russia,2018,"1,870"
+Rwanda,2018,375
+"Samoa, American",2018,0
+"Samoa, Independent State of",2018,0
+San Marino,2018,0
+Saudi Arabia,2018,265
+Senegal,2018,500
+"Serbia, Republic of",2018,440
+Seychelles,2018,--
+Sierra Leone,2018,60
+Singapore,2018,275
+Slovak Republic,2018,265
+Slovenia,2018,30
+"Solomons, The",2018,--
+"Somalia, Democratic Republic of",2018,"1,490"
+"South Africa, Republic of",2018,"1,630"
+"South Sudan, Republic of",2018,120
+Spain,2018,630
+Sri Lanka,2018,"1,875"
+St. Kitts-Nevis,2018,10
+St. Lucia,2018,275
+St. Vincent and the Grenadines,2018,295
+Stateless,2018,730
+"Sudan, Democratic Republic of",2018,535
+Surinam,2018,5
+Swaziland,2018,15
+Sweden,2018,170
+Switzerland,2018,215
+Syria,2018,"10,690"
+Taiwan,2018,805
+Tajikistan,2018,45
+"Tanzania, United Republic of",2018,135
+Thailand,2018,460
+"Togo, Republic of",2018,290
+Tonga,2018,--
+"Trinidad and Tobago, Republic of",2018,425
+Tunisia,2018,"1,675"
+Turkey,2018,"1,585"
+Turkmenistan,2018,5
+Uganda,2018,220
+Ukraine,2018,"2,725"
+United Arab Emirates,2018,10
+United Kingdom and Overseas Territories,2018,"5,035"
+United States of America,2018,"9,260"
+Uruguay,2018,40
+Uzbekistan,2018,150
+Venezuela,2018,"1,275"
+Vietnam,2018,"2,535"
+Western Sahara,2018,0
+Yemen,2018,390
+Zambia,2018,60
+Zimbabwe,2018,515
+Other Countries,2018,15
+Total,2018,"276,380"
